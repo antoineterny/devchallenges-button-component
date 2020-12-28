@@ -66,9 +66,9 @@ $ npm start
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example -->
 
-- [An Introduction to Reusable Components and how to create Typography Component](https://blogs.devchallenges.io/posts/wZKx9Jr3LTQaTZ4HXqdw)
+- [An Introduction to Reusable Components and how to create Typography Component](https://blogs.devchallenges.io/posts/wZKx9Jr3LTQaTZ4HXqdw)   
 Which gives all the keys to solving this challenge.
-- [JedWatson's classnames](https://github.com/JedWatson/classnames#readme)
+- [JedWatson's classnames](https://github.com/JedWatson/classnames#readme)   
 Which proves to be extremely useful.
 
 
