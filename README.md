@@ -7,7 +7,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://devchallenges-portfolio-two.vercel.app/">
+    <a href="https://condescending-gates-d9d463.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -35,15 +35,15 @@
 
 ## Overview
 
-[![screenshot](screenshot.png)](https://devchallenges-portfolio-two.vercel.app/)
+[![screenshot](screenshot.png)](https://condescending-gates-d9d463.netlify.app/)
 
-Very useful challenge, which taught me a lot about how to make the most of React.
+Very useful challenge, which taught me a lot about how to make the most of React by applying classNames by adding props.
 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/xobQBuf8zWWmiYMIAZe0) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY) was to build an application to complete the given user stories.
 
 ## How To Use
 
@@ -53,7 +53,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/antoineterny/devchallenges-portfolio
+$ git clone https://github.com/antoineterny/devchallenges-button-component
 
 # Install dependencies
 $ npm install
@@ -66,8 +66,11 @@ $ npm start
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-Which I didn't follow enough, at least the first part, thinking about the responsiveness in advance. Lesson learnt !
+- [An Introduction to Reusable Components and how to create Typography Component](https://blogs.devchallenges.io/posts/wZKx9Jr3LTQaTZ4HXqdw)
+Which gives all the keys to solving this challenge.
+- [JedWatson's classnames](https://github.com/JedWatson/classnames#readme)
+Which proves to be extremely useful.
+
 
 ## Contact
 
