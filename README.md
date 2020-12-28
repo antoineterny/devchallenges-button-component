@@ -70,7 +70,8 @@ $ npm start
 Which gives all the keys to solving this challenge.
 - [JedWatson's classnames](https://github.com/JedWatson/classnames#readme)   
 Which proves to be extremely useful.
-
+- [Taildwind's colors](https://tailwindcss.com/docs/customizing-colors)    
+Beautiful and convenient palette.
 
 ## Contact
 
